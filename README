@@ -1,0 +1,4 @@
+Implementation of basic data structures: Vector and HashMap.
+
+This exercise focuses on memory management in C.
+It successfully passed all school tests, including Valgrind tests.
